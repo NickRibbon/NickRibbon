@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @NickRibbon
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me raddom
+- 👀 I’m interested in Play racing cars
+- 🌱 I’m currently learning battle with race
+- 💞️ I’m looking to collaborate on fans  to me 
+- 📫 How to reach me nick@gmail.com
 
 <!---
 NickRibbon/NickRibbon is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
